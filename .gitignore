@@ -1,3 +1,4 @@
+test-results
 node_modules
 
 # Output
@@ -5,6 +6,7 @@ node_modules
 .vercel
 /.svelte-kit
 /build
+.direnv
 
 # OS
 .DS_Store
